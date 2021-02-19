@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "username": "msaboor35@gmail.com",
+      "password": "UTQUMax5sgeY8U8",
+      "id": 1
+    },
+    {
+      "username": "a@b.com",
+      "password": "aaab",
+      "id": 2
+    }
+  ],
+  "details": [
+    {
+      "username": "msaboor35@gmail.com",
+      "usertype": "Basic",
+      "firstname": "Muhammad",
+      "lastname": "Saboor",
+      "stcardnumber": "1111222233334444",
+      "stEXdate": "2023-01-13",
+      "stCVVcode": "223",
+      "id": 1
+    },
+    {
+      "username": "a@b.com",
+      "usertype": "Premium",
+      "firstname": "a",
+      "lastname": "b",
+      "stcardnumber": "1111222233334444",
+      "stEXdate": "2020-01-13",
+      "stCVVcode": "223",
+      "id": 2
+    }
+  ]
+}
